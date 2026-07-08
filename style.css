@@ -1,0 +1,24 @@
+/*
+Theme Name: Estatein Dark
+Theme URI: https://example.com/estatein-dark
+Author: Muaz Al Jarhi
+Author URI: https://example.com
+Description: A modern, dark-theme real estate WordPress theme built from a Figma design. Fully responsive (mobile / laptop / desktop), Elementor-compatible, with reusable header, footer and section parts. Includes one-click demo pages for Home, About, Properties, Property Details, Services and Contact.
+Version: 1.0.0
+Requires at least: 6.0
+Tested up to: 6.5
+Requires PHP: 7.4
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: estatein-dark
+Tags: real-estate, dark, elementor, responsive, custom-menu, featured-images, full-width-template
+*/
+
+/*
+ * The actual visual styles live in assets/css/theme.css (enqueued from functions.php)
+ * so they can be cached and versioned independently. This file only carries the
+ * required WordPress theme header above plus a few base resets below.
+ */
+
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; }

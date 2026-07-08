@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit; // No direct access.
 }
 
-define( 'ESTATEIN_VERSION', '1.0.0' );
+define( 'ESTATEIN_VERSION', '1.0.1' );
 define( 'ESTATEIN_DIR', get_template_directory() );
 define( 'ESTATEIN_URI', get_template_directory_uri() );
 
